@@ -1,2 +1,1 @@
-# WeatherApp
- An App for fetching the weather details of the city.
+A Weather App for fetching the weather details of the city.
